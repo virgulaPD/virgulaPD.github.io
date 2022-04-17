@@ -1,5 +1,5 @@
 {
-  "competenciasClave": [
+  "competenciasClave": 
   {
     "CCL": {
     "text": "Competencia en comunicación lingüística (CCL)", 
@@ -83,5 +83,5 @@
         "CCEC4. Conoce, selecciona y utiliza con creatividad diversos medios y soportes, así como técnicas plásticas, visuales, audiovisuales, sonoras o corporales,para la creación de productos artísticos y culturales, tanto de forma individual como colaborativa, identificando oportunidades de desarrollo personal, social ylaboral, así como de emprendimiento."
     ]
   }
-]
+
 }
