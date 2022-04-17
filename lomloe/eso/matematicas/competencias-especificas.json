@@ -1,5 +1,5 @@
 {
-    "competencias":
+  "competenciasEspecificas": [
     {
         "text": "1. Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento, para explorar distintas maneras de proceder y obtener posibles soluciones",
         "value": "La resolución de problemas constituye un eje fundamental en el aprendizaje de las matemáticas, ya que es un proceso central en la construcción del conocimiento matemático. Tanto los problemas de la vida cotidiana en diferentes contextos como los problemas propuestos en el ámbito de las matemáticas permiten ser catalizadores de nuevo conocimiento, ya que las reflexiones que se realizan durante su resolución ayudan a la construcción de conceptos y al establecimiento de conexiones entre ellos. El desarrollo de esta competencia conlleva aplicar el conocimiento matemático que el alumnado posee en el contexto de la resolución de problemas. Para ello es necesario proporcionar herramientas de interpretación y modelización (diagramas, expresiones simbólicas, gráficas, etc.), técnicas y estrategias de resolución de problemas como la analogía con otros problemas, la estimación, el ensayo y error, la resolución de manera inversa (ir hacia atrás), el tanteo, la descomposición en problemas más sencillos o la búsqueda de patrones, que les permitan tomar decisiones, anticipar la respuesta, asumir riesgos y aceptar el error como parte del proceso.",
@@ -50,4 +50,5 @@
         "value": "Trabajar los valores de respeto, igualdad o resolución pacífica de conflictos, al tiempo que se resuelven retos matemáticos, desarrollando destrezas de comunicación efectiva, de planificación, de indagación, de motivación y confianza en sus propias posibilidades, permite al alumnado mejorar la autoconfianza y normalizar situaciones de convivencia en igualdad creando relaciones y entornos de trabajo saludables. El desarrollo de esta competencia conlleva mostrar empatía por los demás, establecer y mantener relaciones positivas, ejercitar la escucha activa y la comunicación asertiva, trabajar en equipo y tomar decisiones responsables. Asimismo, se fomenta la ruptura de estereotipos e ideas preconcebidas sobre las matemáticas asociadas a cuestiones individuales, como, por ejemplo, las asociadas al género o a la creencia en la existencia de una aptitud innata para las matemáticas.",
         "cc": "CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3"
     }
+  ]
 }
