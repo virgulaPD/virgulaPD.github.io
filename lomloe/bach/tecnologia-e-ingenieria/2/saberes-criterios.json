@@ -1,0 +1,48 @@
+{
+  "criteriosEvaluacion": [
+                        
+                        "1.1 Desarrollar proyectos de investigación e innovación con el fin de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles.",
+                        "1.2 Comunicar y difundir de forma clara y comprensible proyectos elaborados y presentarlos con la documentación técnica necesaria.",
+                        "1.3 Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones, aceptando y aprendiendo de la crítica razonada y utilizando el error como parte del proceso de aprendizaje.",
+                        
+                        "2.1 Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad, estudiando su estructura interna, propiedades, tratamientos de modificación y mejora de sus propiedades.",
+                        "2.2 Elaborar informes sencillos de evaluación de impacto ambiental, de manera fundamentada y estructurada.",
+
+                        "3.1 Resolver problemas asociados a las distintas fases del desarrollo y gestión de un proyecto (diseño, simulación y montaje y presentación), utilizando las herramientas adecuadas que proveen las aplicaciones digitales.",
+                        
+                        "4.1 Calcular y montar estructuras sencillas, estudiando los tipos de cargas a los que se puedan ver sometidas y su estabilidad.",
+                        "4.2 Analizar las máquinas térmicas: máquinas frigoríficas, bombas de calor y motores térmicos, comprendiendo su funcionamiento y realizando simulaciones y cálculos básicos sobre su eficiencia.",
+                        "4.3 Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos, a través de montajes o simulaciones, comprendiendo y documentando el funcionamiento de cada uno de sus elementos y del sistema en su totalidad.",
+                        "4.4 Interpretar y resolver circuitos de corriente alterna, mediante montajes o simulaciones, identificando sus elementos y comprendiendo su funcionamiento.",
+                        "4.5 Experimentar y diseñar circuitos combinacionales y secuenciales físicos y simulados aplicando fundamentos de la electrónica digital, y comprendiendo su funcionamiento en el diseño de soluciones tecnológicas.",
+                        "Competencia específica 5.",
+                        "5.1 Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad.",
+                        "5.2 Conocer y evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de los datos, analizando modelos existentes.",
+                        "Competencia específica 6.",
+                        "6.1 Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación."
+                    ],
+                    "saberes": [
+                        "A. Proyectos de investigación y desarrollo.",
+                        "− Gestión y desarrollo de proyectos. Técnicas y estrategias de trabajo en equipo. Metodologías Agile: tipos, características y aplicaciones.",
+                        "− Difusión y comunicación de documentación técnica. Elaboración, referenciación y presentación.",
+                        "− Autoconfianza e iniciativa. Identificación y gestión de emociones. El error y la reevaluación como parte del proceso de aprendizaje.",
+                        "− Emprendimiento, resiliencia, perseverancia y creatividad para abordar problemas desde una perspectiva interdisciplinar.",
+                        "B. Materiales y fabricación.",
+                        "− Estructura interna. Propiedades y procedimientos de ensayo.",
+                        "− Técnicas de diseño y tratamientos de modificación y mejora de las propiedades y sostenibilidad de los materiales. Técnicas de fabricación industrial.",
+                        "C. Sistemas mecánicos.",
+                        "− Estructuras sencillas. Tipos de cargas, estabilidad y cálculos básicos. Montaje o simulación de ejemplos sencillos.",
+                        "− Máquinas térmicas: máquina frigorífica, bomba de calor y motores térmicos. Cálculos básicos, simulación y aplicaciones.",
+                        "− Neumática e hidráulica: componentes y principios físicos. Descripción y análisis. Esquemas característicos de aplicación. Diseño y montaje físico o simulado.",
+                        "D. Sistemas eléctricos y electrónicos.",
+                        "− Circuitos de corriente alterna. Triángulo de potencias. Cálculo, montaje o simulación.",
+                        "− Electrónica digital combinacional. Diseño y simplificación: mapas de Karnaugh. Experimentación en simuladores.",
+                        "− Electrónica digital secuencial. Experimentación en simuladores.",
+                        "E. Sistemas informáticos emergentes.",
+                        "− Inteligencia artificial, big data, bases de datos distribuidas y ciberseguridad.",
+                        "F. Sistemas automáticos.",
+                        "− Álgebra de bloques y simplificación de sistemas. Estabilidad. Experimentación en simuladores.",
+                        "G. Tecnología sostenible.",
+                        "− Impacto social y ambiental. Informes de evaluación. Valoración crítica de las tecnologías desde el punto de vista de la sostenibilidad ecosocial."
+                    ]
+}
