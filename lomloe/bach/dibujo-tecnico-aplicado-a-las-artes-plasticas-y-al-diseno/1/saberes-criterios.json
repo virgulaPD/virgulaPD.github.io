@@ -1,0 +1,37 @@
+{
+  "criteriosEvaluacion": [
+                        "1.1 Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, el entorno, el arte y el diseño, analizando su función y valorando la importancia dentro del contexto histórico.",
+                        "2.1 Dibujar formas poligonales y resolver tangencias básicas y simetrías aplicadas al diseño de formas, valorando la importancia de la limpieza y la precisión en el trazado.",
+                        "2.2 Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas y apreciando su importancia en el dibujo.",
+                        "3.1 Diferenciar las características de los distintos sistemas de representación, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación.",
+                        "3.2 Representar objetos sencillos mediante sus vistas diédricas.",
+                        "3.3 Diseñar envases sencillos, representándolos en perspectiva isométrica o caballera y reflexionando sobre el proceso realizado y el resultado obtenido.",
+                        "3.4 Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista.",
+                        "4.1 Realizar bocetos y croquis conforme a las normas UNE e ISO, comunicando la forma y dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía.",
+                        "5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño.",
+                        "5.2 Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación."
+                    ],
+                    "saberes": [
+                        "A. Geometría, arte y entorno.",
+                        "− La geometría en la naturaleza, en el entorno y en el arte. Observación directa e indirecta.",
+                        "− La geometría en la composición.",
+                        "− La representación del espacio en el arte. Estudios sobre la geometría y la perspectiva a lo largo de la historia del arte.",
+                        "− Relaciones geométricas en el arte y el diseño: proporción, igualdad y simetría. El número áureo en el arte y la naturaleza.",
+                        "− Escalas numéricas y gráficas. Construcción y uso.",
+                        "− Construcciones poligonales. Aplicación en el diseño.",
+                        "− Tangencias básicas. Curvas técnicas. Aplicación en el diseño.",
+                        "− Estudios a mano alzada de la geometría interna y externa de la forma. Apuntes y esbozos.",
+                        "B. Sistemas de representación del espacio aplicado.",
+                        "− Concepto y tipos de proyección. Finalidad de los distintos sistemas de representación.",
+                        "− Sistema diédrico ortogonal en el primer diedro. Vistas en sistema europeo.",
+                        "− Perspectivas isométrica y caballera. Iniciación al diseño de packaging.",
+                        "− Aplicación de la perspectiva cónica, frontal y oblicua, al cómic y a la ilustración.",
+                        "C. Normalización y diseño de proyectos.",
+                        "− Concepto de normalización. Las normas fundamentales UNE e ISO.",
+                        "− Documentación gráfica de proyectos: necesidad y ámbito de aplicación de las normas.",
+                        "− Elaboración de bocetos y croquis.",
+                        "D. Herramientas digitales para el diseño.",
+                        "− Iniciación a las herramientas y técnicas de dibujo vectorial en 2D. Aplicaciones al diseño gráfico.",
+                        "− Iniciación al modelado en 3D. Aplicaciones a proyectos artísticos."
+                    ]
+}
