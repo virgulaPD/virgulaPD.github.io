@@ -1,0 +1,12 @@
+{
+    "objetivos": [
+        {"text":"a) Conocer su propio cuerpo y el de los otros, así como sus posibilidades de acción y aprender a respetar las diferencias.", "value": "a)"},
+        {"text":"b) Observar y explorar su entorno familiar, natural y social.", "value": "b)"},
+        {"text":"c) Adquirir progresivamente autonomía en sus actividades habituales.", "value": "c)"},
+        {"text":"d) Desarrollar sus capacidades emocionales y afectivas.", "value": "d)"}, 
+        {"text":"e) Relacionarse con los demás en igualdad y adquirir progresivamente pautas elementales de convivencia y relación social, así como ejercitarse en el uso de la empatía y la resolución pacífica de conflictos, evitando cualquier tipo de violencia.", "value": "e)"},
+        {"text":"f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de expresión.", "value": "f)"},
+        {"text":"g) Iniciarse en las habilidades lógico-matemáticas, en la lectura y la escritura, y en el movimiento, el gesto y el ritmo.", "value": "g)"}, 
+        {"text":"h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres.", "value": "h)"}
+    ]
+}
