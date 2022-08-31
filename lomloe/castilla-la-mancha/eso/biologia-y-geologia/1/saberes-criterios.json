@@ -1,7 +1,12 @@
 {
-  'saberes': [
-    'Hola',
-    'Hola',
-    'Hola'
+  "saberes": [
+    "Hola",
+    "Hola",
+    "Hola"
+    ],
+  "criterios": [
+    "Hola",
+    "Hola",
+    "Hola"
     ]
 }
